@@ -15,6 +15,8 @@
 .. role:: underline
     :class: underline
 
+.. _get_involved:
+
 Get involved
 ============
 

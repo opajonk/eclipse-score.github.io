@@ -211,4 +211,4 @@ The people working in this project are listed `here <https://projects.eclipse.or
 How to contribute
 =================
 
-For contribution How-To please check the contribution guide `contribution guide <https://github.com/eclipse-score/score/blob/main/CONTRIBUTION.md>`_.
+For contribution How-To please check the contribution guide :ref:`get_involved`.
