@@ -53,7 +53,7 @@ and a `rigid software development process <https://eclipse-score.github.io/score
 
 Contributions to the SCORE project must therefore follow the technical direction of the project and the SCORE 
 architecture. All work in SCORE will therefore follow a
-`Contribution Request Guideline <https://eclipse-score.github.io/score/process/guidelines/contribution_request/index.html>`_.
+`Contribution Request Guideline <https://eclipse-score.github.io/score/process/guidance/contribution_request/index.html>`_.
 Features on the roadmap of SCORE are defined, Contribution Requests create the basis for individual contributions from
 within the SCORE project and also from the outside.
 
