@@ -34,7 +34,8 @@ SCORE (Eclipse Safe Open Vehicle Core)
       <div id="fullScreenDiv">
          <div id="score-title"> 
         
-               <img class="logo_center" src="_static/S-CORE_Logo_RGB.svg" width="600px"/>
+                <img id="logo_center_light" class="logo" src="_static/S-CORE_Logo_RGB.svg" width="600px"/>
+                <img id="logo_center_drk" class="logo" src="_static/S-CORE_Logo_white.svg" width="600px"/>
                <span id="score-phrase">BUILD THE BEST AUTOMOTIVE RUNTIME SOLUTION ONLY ONCE</span>
          </div>   
       </div>
