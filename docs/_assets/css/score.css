@@ -37,6 +37,14 @@ html[data-theme="dark"] {
     --pst-color-table-row-hover-bg: var(--pst-color-secondary); /*#30353e;*/
 }
 
+html[data-theme="dark"] #logo_center_light {
+    display:none;
+ }
+ 
+html[data-theme="light"] #logo_center_drk {
+     display:none;        
+}
+
 .search-button-field {
     color: var(--pst-color-primary);
 }
@@ -186,3 +194,8 @@ html[data-theme="dark"] #score-title {
     0% { opacity: 0; }
     100% { opacity: 1; }
   }
+
+#logo_center_drk {
+    background-color: transparent;
+}
+
