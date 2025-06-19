@@ -42,7 +42,7 @@ https://github.com/eclipse-score/score/blob/main/CONTRIBUTION.md
 How to get involved into SCORE
 ------------------------------
 
-The :underline:`only` way to influence SCORE is TO CONTRIBUTE. Everybody can contribute – SCORE is open.
+The :underline:`only` way to influence SCORE is TO CONTRIBUTE. Everybody can contribute - SCORE is open.
 
 Active Contributions to the SCORE project are the basis for getting involved. The SCORE Project works according to 
 the Eclipse Project Handbook and has named and elected project leads and committers (see https://projects.eclipse.org/projects/automotive.score/who). 
